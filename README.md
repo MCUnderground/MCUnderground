@@ -9,3 +9,4 @@
 - [BlenderExec](https://github.com/MCUnderground/BlenderExec) – VS Code extension for Blender script development.
 - [KritaExec](https://github.com/MCUnderground/KritaExec) – VS Code extension for Krita plugin development.
 - [MaxExec](https://github.com/MCUnderground/MaxExec) – VS Code extension for MaxScript language support and development.
+<img src="ProjectExec/logo.png" alt="Project Icon" width="256" height="256">
